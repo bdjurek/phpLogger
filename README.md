@@ -1,3 +1,5 @@
+# phpLogger
+
 Here’s an example of how to log something:
 ```php
 
